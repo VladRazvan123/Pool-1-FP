@@ -1,0 +1,13 @@
+C:\Users\Razvan\source\repos\Pool-1-FP\Problema_1\Problema_1\bin\Debug\netcoreapp3.1\Problema_1.exe
+C:\Users\Razvan\source\repos\Pool-1-FP\Problema_1\Problema_1\bin\Debug\netcoreapp3.1\Problema_1.deps.json
+C:\Users\Razvan\source\repos\Pool-1-FP\Problema_1\Problema_1\bin\Debug\netcoreapp3.1\Problema_1.runtimeconfig.json
+C:\Users\Razvan\source\repos\Pool-1-FP\Problema_1\Problema_1\bin\Debug\netcoreapp3.1\Problema_1.runtimeconfig.dev.json
+C:\Users\Razvan\source\repos\Pool-1-FP\Problema_1\Problema_1\bin\Debug\netcoreapp3.1\Problema_1.dll
+C:\Users\Razvan\source\repos\Pool-1-FP\Problema_1\Problema_1\bin\Debug\netcoreapp3.1\Problema_1.pdb
+C:\Users\Razvan\source\repos\Pool-1-FP\Problema_1\Problema_1\obj\Debug\netcoreapp3.1\Problema_1.csprojAssemblyReference.cache
+C:\Users\Razvan\source\repos\Pool-1-FP\Problema_1\Problema_1\obj\Debug\netcoreapp3.1\Problema_1.AssemblyInfoInputs.cache
+C:\Users\Razvan\source\repos\Pool-1-FP\Problema_1\Problema_1\obj\Debug\netcoreapp3.1\Problema_1.AssemblyInfo.cs
+C:\Users\Razvan\source\repos\Pool-1-FP\Problema_1\Problema_1\obj\Debug\netcoreapp3.1\Problema_1.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\source\repos\Pool-1-FP\Problema_1\Problema_1\obj\Debug\netcoreapp3.1\Problema_1.dll
+C:\Users\Razvan\source\repos\Pool-1-FP\Problema_1\Problema_1\obj\Debug\netcoreapp3.1\Problema_1.pdb
+C:\Users\Razvan\source\repos\Pool-1-FP\Problema_1\Problema_1\obj\Debug\netcoreapp3.1\Problema_1.genruntimeconfig.cache
